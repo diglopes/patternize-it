@@ -1,0 +1,8 @@
+{
+  "name": "patternize-it",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:diglopes/patternize-it.git",
+  "author": "Diego Lopes <diego-chez@hotmail.com>",
+  "license": "MIT"
+}
